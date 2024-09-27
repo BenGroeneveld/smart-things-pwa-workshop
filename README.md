@@ -1,4 +1,6 @@
-# smart-things-pwa-workshop
+# Smart Things PWA Workshop
 
-[Minor Smart Things Workshop: Progressive Web Apps - Canvas](./canvas.html)
-[Minor Smart Things Workshop: Progressive Web Apps - Calculator](./calc.html)
+## LINKS
+
+- [Minor Smart Things Workshop: Progressive Web Apps - Canvas](./canvas.html)
+- [Minor Smart Things Workshop: Progressive Web Apps - Calculator](./calc.html)
