@@ -2,5 +2,5 @@
 
 ## LINKS
 
-- [Minor Smart Things Workshop: Progressive Web Apps - Canvas](./canvas.html)
-- [Minor Smart Things Workshop: Progressive Web Apps - Calculator](./calculator.html)
+- [Minor Smart Things Workshop: Progressive Web Apps - Canvas](./canvas/index.html)
+- [Minor Smart Things Workshop: Progressive Web Apps - Calculator](./calculator/index.html)
